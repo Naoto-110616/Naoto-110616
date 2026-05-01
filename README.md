@@ -80,8 +80,8 @@ const naoto = {
 
 ## 📊 GitHub Stats
 
-![Naoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naoto-110616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naoto-110616&layout=compact&theme=tokyonight&hide_border=true)
+![Naoto's GitHub stats](https://github-readme-stats-six-mu-96.vercel.app/api?username=Naoto-110616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-six-mu-96.vercel.app/api/top-langs/?username=Naoto-110616&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
