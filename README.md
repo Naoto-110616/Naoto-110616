@@ -38,6 +38,7 @@ Passionate about bridging the gap between design and engineering.
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify_Plus-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-000000?style=flat-square&logo=sanity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Design & Tools
